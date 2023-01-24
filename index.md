@@ -20,7 +20,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   type="docs"
   icon=""
   text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  link="https://github.com/greenelab/wiki"
   style="button"
 %}
 {:.center}
